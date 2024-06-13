@@ -32,7 +32,7 @@ function changeBackground() {
             document.body.className = 'light';
         } else if (weight >= 50 && weight <= 100) {
             // Нормальный
-            document.body.className = 'normal';
+            document.body.className = 'normal';// hello men
         } else {
             // Тяжелый
             document.body.className = 'heavy';
